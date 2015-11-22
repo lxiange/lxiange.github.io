@@ -2,7 +2,7 @@
 layout: post
 title:  "是时候开始写点东西了"
 date:   2015-11-22 10:49:09 +0800
-categories: jekyll update
+categories: life
 ---
 早就想建个博客，记录记录平时的有趣发现或想法，但又不想太折腾。前阵子确实特意折腾gitpages好久，修改jekyll主题真是一件让人头疼的事情。Hexo倒是不错，不过每次都要自己生成页面同步到github上，而jekyll是由github自动生成的，对于处女座来说，每次都生成一大堆东西真是不能忍。
 
