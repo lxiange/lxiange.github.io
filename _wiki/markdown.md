@@ -1,7 +1,8 @@
 ---
-layout: wiki
 title: Markdown
-categories: Markdown
+categories:
+- Markdown
+layout: wiki
 description: Markdown 常用语法示例。
 keywords: Markdown
 ---

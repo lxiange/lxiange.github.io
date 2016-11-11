@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Hello, jekyll-theme-solid
-categories: jekyll
+date: 2015-12-10 00:00:00 Z
+categories:
+- jekyll
+layout: post
 description: say hello
 keywords: jekyll, theme
 ---

@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Zhuang Ma
+permalink: "/about/"
+layout: page
 description: Zhuang Ma的个人简介。
 keywords: Zhuang Ma, 马壮
-permalink: /about/
 ---
 
 **Software Engineer at [Sogou, Inc.](http://www.sogou.com)**

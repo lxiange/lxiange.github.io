@@ -1,38 +1,32 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
+---
+title: lxiange's Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  wiki:
+    title: Wiki
+    output: true
+    permalink: "/wiki/:path/"
 baseurl: 
 url: http://lxiange.github.io
-date_format: "ordinal"
-title: lxiange's Blog
-author: Xiang Li 
-
-# ---------------- #
-#   RSS / Email    #
-# ---------------- #
-subscribe_rss: /feed.xml
-email:
-
-# ---------------- #
-#      Jekyll      #
-# ---------------- #
+date_format: ordinal
+author: Xiang Li
+subscribe_rss: "/feed.xml"
+email: 
 markdown: kramdown
 kramdown:
-    input: GFM
+  input: GFM
 paginate: 9
-permalink: /:year/:month/:day/:title/
+permalink: "/:year/:month/:day/:title/"
 gems:
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
-
-# ---------------- #
-#      Comments    #
-# ---------------- #
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jemoji
 duoshuo_short_name: lxiange
 changyan: false
