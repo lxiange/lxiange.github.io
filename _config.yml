@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: http://lxiange.github.io
+url: https://lxiange.github.io
 date_format: "ordinal"
 title: lxiange's Blog
 author: Xiang Li 
