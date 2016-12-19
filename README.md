@@ -5,12 +5,8 @@ A simple and clean jekyll theme without javascript.
 
 Online Demo: <http://mazhuang.org/jekyll-theme-solid>
 
-## Screenshots
+## TODO:
 
-* Home page
+* 分享按钮
 
-  ![home page](./images/screenshots/home.png)
-
-* Post page
-
-  ![post page](./images/screenshots/posts.png)
+* 评论
