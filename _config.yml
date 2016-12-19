@@ -3,6 +3,7 @@
 # ---------------- #
 baseurl: 
 url: https://lxiange.github.io
+image_url: http://7xo11x.com1.z0.glb.clouddn.com/test
 date_format: "ordinal"
 title: lxiange's Blog
 author: Xiang Li 
@@ -36,3 +37,9 @@ collections:
 # ---------------- #
 duoshuo_short_name: lxiange
 changyan: false
+
+# ---------------- #
+#       Server     #
+# ---------------- #
+port: 4000
+host: 0.0.0.0
