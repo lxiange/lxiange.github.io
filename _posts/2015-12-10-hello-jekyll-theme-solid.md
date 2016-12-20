@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Hello, jekyll-theme-solid
-categories: test
+category: test
 description: say hello
 # comments: false
 keywords: jekyll, theme
@@ -9,4 +8,4 @@ keywords: jekyll, theme
 
 A simple and clean jekyll theme without javascript.
 test pic:
-![Lenna]({{ site.image_url }}/test/Lenna.png)
+![Lenna]({{ site.image_url }}/Lenna.png)

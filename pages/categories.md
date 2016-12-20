@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Categories
 description: 本博客所有文章分类列表。
 keywords: 分类

@@ -4,9 +4,10 @@
 baseurl: 
 url: https://lxiange.github.io
 # image_url: http://7xo11x.com1.z0.glb.clouddn.com/blog_images
-image_url: /images
+# image_url: /images
+image_url: https://lxiange-1251082959.file.myqcloud.com
 date_format: "ordinal"
-title: lxiange's Blog
+title: Lxiange's Blog
 author: Xiang Li 
 
 # ---------------- #
@@ -18,11 +19,13 @@ email:
 # ---------------- #
 #      Jekyll      #
 # ---------------- #
+error_mode: strict
 markdown: kramdown
 kramdown:
     input: GFM
 paginate: 9
 permalink: date
+show_drafts: true
 gems:
     - jekyll-paginate
     - jekyll-sitemap
@@ -32,6 +35,24 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "lxiange"
+      category: "uncategorized"
+  -
+    scope:
+      path: ""
+      type: "wiki"
+    values:
+      layout: "wiki"
+      author: "lxiange"
+
+
 
 # ---------------- #
 #      Comments    #
@@ -46,3 +67,5 @@ enable_disqus: true
 # ---------------- #
 port: 4000
 host: 0.0.0.0
+
+

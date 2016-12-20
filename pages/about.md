@@ -11,11 +11,11 @@ permalink: /about/
 Shanghai City, China \| Computer Software
   
 *Education:* Nanjing University
-scholar, CS
+Bachelor, CS
 
-*Contact:* `print '%s@%s' % ('lxiange', 'gmail.com')  #via Python`
+*Contact:* `print('{}@{}.{}'.format('lxiange', 'gmail', 'com'))  #via Python`
 
-*Social:*  [github](http://github.com/lxiange) \| [linkedin](http://www.linkedin.com/in/lxiange) \| [weibo](http://weibo.com/lxiange) \| [blog](http://lxiange.github.io)
+*Social:*  [Github](https://github.com/lxiange) \| [LinkedIn](https://www.linkedin.com/in/lxiange) \| [Twitter](https://twitter.com/lxiange) \| [Blog](https://lxiange.github.io)
     
 ```c++
 #include <iostream>

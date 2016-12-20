@@ -10,3 +10,7 @@ Online Demo: <http://mazhuang.org/jekyll-theme-solid>
 * 分享按钮
 
 * 评论
+
+* Project Page
+
+* HTTPS
