@@ -15,7 +15,7 @@ Bachelor, CS
 
 *Contact:* `print('{}@{}.{}'.format('lxiange', 'gmail', 'com'))  #via Python`
 
-*Social:*  [Github](https://github.com/lxiange) \| [LinkedIn](https://www.linkedin.com/in/lxiange) \| [Twitter](https://twitter.com/lxiange) \| [Blog](https://lxiange.github.io)
+*Social:*  [Github](https://github.com/lxiange) \| [Linkedin](https://www.linkedin.com/in/lxiange) \| [Twitter](https://twitter.com/lxiange) \| [Blog](https://lxiange.com)
     
 ```c++
 #include <iostream>
