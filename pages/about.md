@@ -6,22 +6,19 @@ keywords: Li Xiang, xiangge.lx, 李想
 permalink: /about/
 ---
 
-**Software Engineer at [Ant Financial Services Group, Inc.](https://www.antgroup.com/)**
+**Senior in Department of Computer Science, Nanjing University**
 
-Shanghai City, China \| Computer Software
-  
-*Education:* Nanjing University
-Bachelor, CS
+*Contact:* `bHhpYW5nZUBnbWFpbC5jb20=`
 
-*Contact:* `print('{}@{}.{}'.format('lxiange', 'gmail', 'com'))  #via Python`
+*Social:* 
+[Github](https://github.com/lxiange) 
+\| [Linkedin](https://www.linkedin.com/in/lxiange) 
+\| [Twitter](https://twitter.com/lxiange) 
+\| [Blog](https://lxiange.com)
+\| [Weibo](http://weibo.com/lxiange)
 
-*Social:*  [Github](https://github.com/lxiange) \| [Linkedin](https://www.linkedin.com/in/lxiange) \| [Twitter](https://twitter.com/lxiange) \| [Blog](https://lxiange.com)
-    
-```c++
-#include <iostream>
-int main()
-{
-	std::cout << "Hello, friends!" << std::endl;
-	return 0;
-}
-```
+*Skills:* 
+ 
+* C/C++, Java, Python, Scala, Go
+* Docker, Spark, Redis
+* Body Building, Boating

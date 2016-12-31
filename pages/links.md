@@ -6,6 +6,4 @@ keywords: 友情链接
 permalink: /links/
 ---
 
-<ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
-</ul>
+* [码志](http://mazhuang.org)

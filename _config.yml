@@ -3,9 +3,9 @@
 # ---------------- #
 baseurl: 
 url: https://lxiange.com
-# image_url: http://7xo11x.com1.z0.glb.clouddn.com/blog_images
 # image_url: /images
-image_url: https://lxiange-1251082959.file.myqcloud.com
+image_url: https://images.lxiange.com
+# image_url: https://lxiange-1251082959.file.myqcloud.com
 
 date_format: "ordinal"
 title: Lxiange's Blog
@@ -25,7 +25,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 paginate: 9
-permalink: date
+permalink: /posts/:title.html
 gems:
     - jekyll-paginate
     - jekyll-sitemap

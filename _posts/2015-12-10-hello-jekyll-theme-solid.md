@@ -9,3 +9,5 @@ keywords: jekyll, theme
 A simple and clean jekyll theme without javascript.
 test pic:
 ![Lenna]({{ site.image_url }}/Lenna.png)
+hello
+world

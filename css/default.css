@@ -29,7 +29,7 @@ H1, H2 {
 H3, H4 {
   margin-top: 2.14em;
   margin-bottom: 1.5em;
-  border-bottom: 1px LightGrey solid;
+/*  border-bottom: 1px LightGrey solid; */
 }
 
 blockquote {
