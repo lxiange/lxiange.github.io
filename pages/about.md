@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Li Xiang
-description: Li Xiang的个人简介。
-keywords: Li Xiang, xiangge.lx, 李想
+title: lxiange
+description: 想哥的个人简介。
+keywords: xiangge.lx, 想哥
 permalink: /about/
 ---
 
@@ -14,8 +14,8 @@ permalink: /about/
 [Github](https://github.com/lxiange) 
 \| [Linkedin](https://www.linkedin.com/in/lxiange) 
 \| [Twitter](https://twitter.com/lxiange) 
-\| [Blog](https://lxiange.com)
 \| [Weibo](http://weibo.com/lxiange)
+\| [Douban](https://www.douban.com/people/lxiange/)
 
 *Skills:* 
  
