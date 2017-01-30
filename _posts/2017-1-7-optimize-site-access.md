@@ -1,6 +1,6 @@
 ---
 title: 加速个人博客访问
-category: technology
+category: tech
 description: 介绍DNS、对象存储、CDN等服务来加速个人网站的访问，并比较市面上常见服务的性价比。
 # comments: false
 keywords: cdn, dns
