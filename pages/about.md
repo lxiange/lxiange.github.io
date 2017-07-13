@@ -1,24 +1,22 @@
 ---
 layout: page
-title: lxiange
+title: lxiange(想哥)
 description: 想哥的个人简介。
 keywords: xiangge.lx, 想哥
 permalink: /about/
 ---
 
-**Senior in Department of Computer Science, Nanjing University**
+**Development Engineer at Antfin**
 
 *Contact:* `bHhpYW5nZUBnbWFpbC5jb20=`
 
-*Social:* 
-[Github](https://github.com/lxiange) 
-\| [Linkedin](https://www.linkedin.com/in/lxiange) 
-\| [Twitter](https://twitter.com/lxiange) 
-\| [Weibo](http://weibo.com/lxiange)
+*Social:*
+[Github](https://github.com/lxiange)
+\| [Linkedin](https://www.linkedin.com/in/lxiange)
 \| [Douban](https://www.douban.com/people/lxiange/)
 
-*Skills:* 
- 
+*Interests:*
+
 * C/C++, Java, Python, Scala, Go
 * Docker, Spark, Redis
-* Body Building, Boating
+* Body Building, Food
