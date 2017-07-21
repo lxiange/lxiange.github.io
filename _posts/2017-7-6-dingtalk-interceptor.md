@@ -25,14 +25,14 @@ keywords: dingtalk
 但是仔细想一下，这些功能貌似大多数情况下都用不上，是伪需求。
 因此只专注做好一件事就足够了。
 
-项目地址：[dingtalk-interceptor](https://github.com/lxiange/dingtalk-interceptor)
+项目地址：<del>[dingtalk-interceptor](https://github.com/lxiange/dingtalk-interceptor)</del>（已删除）
 
 
 附上README：
 
 ### 安装方法：
 
-1. 通过Chrome Webstore安装[DingTalk Interceptor](https://chrome.google.com/webstore/detail/dingtalk-interceptor/dcefpnhobgebmafmamokafniilmmcgdp)
+1. 通过Chrome Webstore安装<del>[DingTalk Interceptor](https://chrome.google.com/webstore/detail/dingtalk-interceptor/dcefpnhobgebmafmamokafniilmmcgdp)</del>（已下架）
 2. 若无法访问Chrome Webstore，可下载此项目解压，然后打开`chrome://extensions/`，点击`加载已解压的扩展程序...`按钮，选择此项目文件夹。
 
 ### 使用方法：
