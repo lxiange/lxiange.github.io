@@ -8,3 +8,8 @@ services:
     - .:/srv/jekyll
     entrypoint: /bin/sh -c
     command: ["bundle install && jekyll serve --watch"]
+    environment: 
+    - HTTP_PROXY=http://30.17.236.48:1080
+    - HTTPS_PROXY=https://30.17.236.48:1080
+    restart: always
+
