@@ -42,7 +42,7 @@ Windows 用户可以参考下，把 js 文件拷贝到钉钉目录（大概是�
 
 右击标题栏部分即可激活或关闭。
 
-![header](https://images.lxiange.com/posts/dingtalk-interceptor/header.png)
+![header]({{ site.image_url }}{{ page.id }}/header.png)
 
 可以看到，标题栏会变成原谅色，喜欢你们喜欢。
 
