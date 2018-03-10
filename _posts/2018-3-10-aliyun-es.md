@@ -95,21 +95,21 @@ curl -X POST -u elastic:YOUR_PASSWORD es-cn-xxxxxxxxxxxxx.elasticsearch.aliyuncs
 
 ```json
 {
-"title":"hahaha",
-"body":"I am very happy.",
-"author":"admin"
-}
+    "title":"hahaha",
+    "body":"I am very happy.",
+    "author":"admin"
+},
 
 {
-	"title":"foo",
-	"body":"bar",
-	"author":"admin"
-}
+    "title":"foo",
+    "body":"bar",
+    "author":"admin"
+},
 
 {
-	"title":"hello",
-	"body":"helloworld",
-	"author":"root"
+    "title":"hello",
+    "body":"helloworld",
+    "author":"root"
 }
 ```
 
