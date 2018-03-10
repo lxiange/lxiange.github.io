@@ -74,7 +74,9 @@ ElasticSearch的使用方式非常简单，我们可以创建一个新的index�
 
 创建一个名为aliyun_es的index：
 
-`curl -XPUT -u elastic:YOUR_PASSWORD es-cn-xxxxxxxxxxxxx.elasticsearch.aliyuncs.com:9200/aliyun_es`
+```bash
+curl -XPUT -u elastic:YOUR_PASSWORD es-cn-xxxxxxxxxxxxx.elasticsearch.aliyuncs.com:9200/aliyun_es
+```
 
 ![10.png]({{ site.image_url }}{{ page.id }}/10.png)
 
@@ -85,11 +87,13 @@ ElasticSearch的灵活之处就在于可以灵活地支持各种结构的数据�
 
 添加数据的方式非常简单：
 
-`curl -X POST -u elastic:YOUR_PASSWORD es-cn-xxxxxxxxxxxxx.elasticsearch.aliyuncs.com:9200/index_name/type_name -d '{...}' `
+```bash
+curl -X POST -u elastic:YOUR_PASSWORD es-cn-xxxxxxxxxxxxx.elasticsearch.aliyuncs.com:9200/index_name/type_name -d '{...}' 
+```
 
 我们创建如下几个doc试试。
 
-```
+```json
 {
 "title":"hahaha",
 "body":"I am very happy.",
