@@ -1,12 +1,12 @@
 ---
 layout: page
-title: lxiange(想哥)
+title: Xiang Li
 description: 想哥的个人简介。
-keywords: xiangge.lx, 想哥
+keywords: xiangge.lx, 想哥, lxiange
 permalink: /about/
 ---
 
-**Development Engineer at Antfin**
+**Software Engineer**
 
 *Contact:* `bHhpYW5nZUBnbWFpbC5jb20=`
 
@@ -17,6 +17,6 @@ permalink: /about/
 
 *Interests:*
 
-* C/C++, Java, Python, Scala, Go
-* Docker, Spark, Redis
+* Java, Rust, Go, C, JavaScript, Python
+* Kubernetes, Cloud Computing, Machine Learning
 * Body Building, Food
