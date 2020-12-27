@@ -4,7 +4,7 @@
 baseurl: 
 url: https://lxiange.com
 # image_url: /images
-image_url: https://images.lxiange.com
+image_url: https://statics.lxiange.com
 # image_url: https://lxiange-1251082959.file.myqcloud.com
 
 date_format: "ordinal"
