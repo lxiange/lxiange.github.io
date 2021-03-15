@@ -4,20 +4,20 @@ div.main {
   border: none;
 }
 
-H1, H2 {
-  margin-bottom: 1.25em;
+H1 {
+  margin-bottom: 1em;
   padding: 0;
   width: 100%;
-  font-size: 1.25em;
+}
+
+H2 {
+  padding: 0;
+  width: 100%;
 }
 
 H3, H4 {
-  margin-top: 0.625em;
-  margin-bottom: 0.625em;
   border: none;
   width: 100%;
-  font-size: 1em;
-/* color: blue; */
   color: #666666;
 }
 

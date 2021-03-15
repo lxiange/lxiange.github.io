@@ -15,22 +15,20 @@ div.main {
 }
 
 H1, H2, H3, H4 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif; 
+  font-family: sans-serif;
   width: 98%;
   line-height: 150%;
   color: #666666;
 }
 
-H1, H2 {
-  margin-bottom: 1.67em;
+H1 {
+  margin-bottom: 1.5em;
   padding: 0.2em;
   border-bottom: 2px LightGrey solid;
 }
 
-H3, H4 {
-  margin-top: 2.14em;
-  margin-bottom: 1.5em;
-/*  border-bottom: 1px LightGrey solid; */
+H2 {
+  padding: 0.2em;
 }
 
 blockquote {
